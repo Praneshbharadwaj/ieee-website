@@ -71,11 +71,8 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Features />
-      {/* Add a big heading for our grand events */}
       <h1 className="text-3xl lg:text-4xl font-bold mb-6 bg- text-body-color dark:text-white text-center mt-5">Our Grand Events</h1>
 
-      {/* Pass the information object as a prop to the About component */}
-      {/* Map over the aboutInformation array and render an About component for each object */}
       {aboutInformation.map((aboutInfo, index) => (
         <About
           key={index}

@@ -19,7 +19,7 @@ const Hero = () => {
                 </h1>
                 <div>
                   <p className="mb-4 text-center text-2xl font-medium text-white font-serif ">
-                    " Unleash the full potential of your tech skills with Play " 🚀 !
+                    Unleash the full potential of your tech skills with IEEE 🚀
                   </p>
                 </div>
 
