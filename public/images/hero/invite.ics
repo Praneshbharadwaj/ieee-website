@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:REQUEST
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:c-_cOH81t_H_1RXzAxoCB
+SUMMARY:Intuit invitation for technical assessment
+DTSTAMP:20240213T065800Z
+DTSTART:20240214T140000Z
+DTEND:20240214T143000Z
+DESCRIPTION:This is a reminder to attempt FY24 UR Assessment_14th Feb 2024_
+	SI_D test you have been invited for\, Please ignore if already attempted.
+STATUS:CONFIRMED
+CATEGORIES:Assessment,JOB,Careers,Assignment
+ORGANIZER;CN=Intuit via GLIDER.ai:mailto:assistant@glider.ai
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR
