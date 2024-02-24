@@ -10,11 +10,11 @@ export const metadata: Metadata = {
 };
 
 const Blog = () => {
-  const posts = getAllPosts(["title", "date", "excerpt", "coverImage", "slug"]);
+  const posts = getAllPosts(["title", "code", "excerpt", "coverImage", "slug"]);
 
   return (
     <>
-      <Breadcrumb pageName="Blog Grids" />
+      <Breadcrumb pageName="Chapters" />
 
       <section className="pb-10 pt-20 lg:pb-20 lg:pt-[120px]">
         <div className="container">
