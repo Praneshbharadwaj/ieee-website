@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 const Blog = () => {
-  const posts = getAllPosts(["title", "code", "description", "coverImage", "content"]);
+  const posts = getAllPosts(["title", "code", "description", "coverImage", "content", "slug"]);
 
   return (
     <>

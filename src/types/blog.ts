@@ -2,8 +2,7 @@ export type Blog = {
   id?: number;
   title?: string;
   slug?: string;
-  excerpt?: string;
+  description?: string;
   coverImage?: string;
   code: string;
-  content?: string;
 };
