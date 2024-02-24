@@ -35,7 +35,7 @@
     "@types/bcrypt": "^5.0.2",
     "@types/node": "^20.10.2",
     "@types/prismjs": "^1.26.3",
-    "@types/react": "^18",
+    "@types/react": "^18.2.58",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
