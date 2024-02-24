@@ -22,6 +22,72 @@ export default function ToggleableDemo() {
   // Sample data structure with events classified by year
   const eventsByYear = [
     {
+      year: 2024,
+      events: [
+        {
+          id: 11,
+          title: "Event 11",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 11.",
+        },
+        {
+          id: 12,
+          title: "Event 12",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 12.",
+        },
+        {
+          id: 13,
+          title: "Event 13",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 13.",
+        },
+        {
+          id: 14,
+          title: "Event 14",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 14.",
+        },
+        {
+          id: 15,
+          title: "Event 15",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 15.",
+        },
+        {
+          id: 16,
+          title: "Event 16",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 16.",
+        },
+        {
+          id: 17,
+          title: "Event 17",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 17.",
+        },
+        {
+          id: 18,
+          title: "Event 18",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 18.",
+        },
+        {
+          id: 19,
+          title: "Event 19",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 19.",
+        },
+        {
+          id: 20,
+          title: "Event 20",
+          imageSrc: "/images/events/dummy-event.jpg",
+          details: "This is a dummy event description for Event 20.",
+        },
+        // Add more events for 2024 here
+      ],
+    },
+    {
       year: 2023,
       events: [
         {
@@ -88,72 +154,6 @@ export default function ToggleableDemo() {
           details: "This is a dummy event description for Event 10.",
         },
         // Add more events for 2023 here
-      ],
-    },
-    {
-      year: 2024,
-      events: [
-        {
-          id: 11,
-          title: "Event 11",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 11.",
-        },
-        {
-          id: 12,
-          title: "Event 12",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 12.",
-        },
-        {
-          id: 13,
-          title: "Event 13",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 13.",
-        },
-        {
-          id: 14,
-          title: "Event 14",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 14.",
-        },
-        {
-          id: 15,
-          title: "Event 15",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 15.",
-        },
-        {
-          id: 16,
-          title: "Event 16",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 16.",
-        },
-        {
-          id: 17,
-          title: "Event 17",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 17.",
-        },
-        {
-          id: 18,
-          title: "Event 18",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 18.",
-        },
-        {
-          id: 19,
-          title: "Event 19",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 19.",
-        },
-        {
-          id: 20,
-          title: "Event 20",
-          imageSrc: "/images/events/dummy-event.jpg",
-          details: "This is a dummy event description for Event 20.",
-        },
-        // Add more events for 2024 here
       ],
     },
     // Add more years as needed

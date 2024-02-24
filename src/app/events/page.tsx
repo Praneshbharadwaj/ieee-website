@@ -8,8 +8,8 @@ import ToggleableDemo from "@/components/Toggledemo/Toggledemo";
 
 export const metadata: Metadata = {
   title:
-    "Pricing Page | Play SaaS Starter Kit and Boilerplate for Next.js",
-  description: "This is pricing page description",
+    "Events | IEEE BIT",
+  description: "Events held by the IEEE student branch at Bangalore Institute of Technology",
 };
 
 const PricingPage = () => {

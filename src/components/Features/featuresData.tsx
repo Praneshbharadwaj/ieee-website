@@ -38,7 +38,7 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Research Opportunities and Publications:",
+    title: "Research Opportunities and Publications",
     paragraph: "Explore exciting research prospects and publications.",
     btn: "Learn More",
     btnLink: "/#",
@@ -91,7 +91,7 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Workshops and Training Programs:",
+    title: "Workshops and Training Programs",
     paragraph: "Join hands-on workshops and training sessions.",
     btn: "Learn More",
     btnLink: "/#",
@@ -124,7 +124,7 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Project Incubation and Competitions:",
+    title: "Project Incubation and Competitions",
     paragraph: "Get involved in innovative projects and competitions.",
     btn: "Learn More",
     btnLink: "/#",

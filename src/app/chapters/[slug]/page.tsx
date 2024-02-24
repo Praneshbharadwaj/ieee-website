@@ -18,7 +18,7 @@ export async function generateMetadata({ params }) {
     "metadata",
   ]);
 
-  const siteName = process.env.SITE_NAME || "Your Site Name";
+  const siteName = 'IEEE BIT';
   const authorName = process.env.AUTHOR_NAME || "Your Author Name";
 
   if (post) {

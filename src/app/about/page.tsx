@@ -5,8 +5,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:
-    "About Us | Play SaaS Starter Kit and Boilerplate for Next.js",
-  description: "This is About page description",
+    "About Us | IEEE BIT",
+  description: "About the team members of IEEE student branch at Bangalore Institute of Technology",
 };
 
 const AboutPage = () => {
