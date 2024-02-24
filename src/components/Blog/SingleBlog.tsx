@@ -4,34 +4,30 @@ import Image from "next/image";
 import Link from "next/link";
 
 const SingleBlog = ({ blog }: { blog: Blog }) => {
-  const { title, coverImage, excerpt, code, slug } = blog;
+  const { title, coverImage, content, code } = blog;
 
   return (
     <div className="wow fadeInUp group mb-10" data-wow-delay=".1s">
       <div className="mb-6 overflow-hidden rounded">
-        <Link href={`/chapters/${slug}`} aria-label="blog cover" className="block">
-          <Image
-            src={coverImage}
-            alt="image"
-            className="w-full transition group-hover:rotate-6 group-hover:scale-125"
-            width={408}
-            height={272}
-          />
-        </Link>
+        {/* <Link href={`/chapters/${slug}`} aria-label="blog cover" className="block"> */}
+        <Image
+          src={coverImage}
+          alt="image"
+          className="w-full transition group-hover:rotate-6 group-hover:scale-125"
+          width={408}
+          height={272}
+        />
+        {/* </Link> */}
       </div>
       <div className="flex flex-col justify-center">
-        <span className="mb-5 mx-auto inline-block rounded bg-primary px-4 py-1 text-center text-xs font-semibold leading-loose text-white">
+        <span className="mx-auto mb-5 inline-block rounded bg-primary px-4 py-1 text-center text-xs font-semibold leading-loose text-white">
           {code}
         </span>
-        <h3>
-          <Link
-            href={`/chapters/${slug}`}
-            className="mb-4 inline-block text-xl font-semibold text-dark hover:text-primary dark:text-white dark:hover:text-primary sm:text-2xl lg:text-xl xl:text-2xl"
-          >
-            {title}
-          </Link>
+        <h3
+          className="mb-4 inline-block text-xl font-semibold text-dark dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+         {title}
         </h3>
-        <p className="text-base text-body-color dark:text-dark-6">{excerpt}</p>
+        <p className="text-base text-body-color dark:text-dark-6">{content}</p>
       </div>
     </div>
   );
