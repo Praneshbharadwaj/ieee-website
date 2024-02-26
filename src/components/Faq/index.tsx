@@ -7,8 +7,8 @@ const Faq = () => {
       <div className="container">
         <SectionTitle
           subtitle="FAQ"
-          title="Any Questions? Answered"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Any Questions? Answered Already!"
+          paragraph=""
           width="640px"
           center
         />
@@ -16,31 +16,31 @@ const Faq = () => {
         <div className="-mx-4 mt-[60px] flex flex-wrap lg:mt-20">
           <div className="w-full px-4 lg:w-1/2">
             <SingleFaq
-              question="How to use TailGrids?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What is IEEE?"
+              answer="IEEE stands for the Institute of Electrical and Electronics Engineers, which is a professional organization that supports many branches of engineering, computer science, and information technology."
             />
             <SingleFaq
-              question="How to download icons from LineIcons?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What is the IEEE Student Branch?"
+              answer="An IEEE student branch is a university subsection of a section. It gives students a community of peers, and a connection to faculty and industry professionals who drive innovation in countless technical fields."
             />
             <SingleFaq
-              question="Is GrayGrids part of UIdeck?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What are the benefits of joining the IEEE Student Branch?"
+              answer="The IEEE Student Branch grants a platform that inspires, enables and empowers students as well as provides networking opportunities with distinguished individuals in the field."
             />
           </div>
 
           <div className="w-full px-4 lg:w-1/2">
             <SingleFaq
-              question="Can I use this template for commercial project?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="Who can join the IEEE Student Branch?"
+              answer="A student member must carry at least 50% of a normal full-time academic program as a registered undergraduate or graduate student in a regular course of study in IEEE designated fields."
             />
             <SingleFaq
-              question="Do you have plan to releasing Play Pro?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="What events and activities does the IEEE Student Branch organize?"
+              answer="The IEEE Student Branch organizes a variety of technical as well as non-technical events, ranging from workshops, seminars, hackathons to fun fairs, design competitions, games, etc."
             />
             <SingleFaq
-              question="Where and how to host this template?"
-              answer="It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available ."
+              question="How can I get involved with the IEEE Student Branch?"
+              answer="To join the Student Branch, kindly await the recruitment season. You can also follow us on our social media handles to stay up to date and participate in our events."
             />
           </div>
         </div>
