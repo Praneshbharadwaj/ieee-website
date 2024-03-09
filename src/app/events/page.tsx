@@ -1,9 +1,5 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
-import Faq from "@/components/Faq";
-import Pricing from "@/components/Pricing";
 import { Metadata } from "next";
-import { Button } from 'primereact/button';
-import { Panel } from 'primereact/panel'
 import ToggleableDemo from "@/components/Toggledemo/Toggledemo";
 
 export const metadata: Metadata = {
