@@ -20,8 +20,8 @@ const Faq = () => {
               answer="IEEE stands for the Institute of Electrical and Electronics Engineers, which is a professional organization that supports many branches of engineering, computer science, and information technology."
             />
             <SingleFaq
-              question="What is the IEEE Student Branch?"
-              answer="An IEEE student branch is a university subsection of a section. It gives students a community of peers, and a connection to faculty and industry professionals who drive innovation in countless technical fields."
+              question="Who is eligible to join the IEEE Student Branch?"
+              answer="A student member must carry at least 50% of a normal full-time academic program as a registered undergraduate or graduate student in a regular course of study in IEEE designated fields."
             />
             <SingleFaq
               question="What are the benefits of joining the IEEE Student Branch?"
@@ -31,8 +31,8 @@ const Faq = () => {
 
           <div className="w-full px-4 lg:w-1/2">
             <SingleFaq
-              question="Who can join the IEEE Student Branch?"
-              answer="A student member must carry at least 50% of a normal full-time academic program as a registered undergraduate or graduate student in a regular course of study in IEEE designated fields."
+              question="What is the IEEE Student Branch?"
+              answer="An IEEE student branch is a university subsection of a section. It gives students a community of peers, and a connection to faculty and industry professionals who drive innovation in countless technical fields."
             />
             <SingleFaq
               question="What events and activities does the IEEE Student Branch organize?"
