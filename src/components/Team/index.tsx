@@ -136,22 +136,22 @@ const Team = () => {
             paragraph: 'Our technical team is responsible for designing and developing our products.',
             members: [
               {
-                id: 21,
-                name: 'Lucas Moore',
-                designation: 'Motion Designer',
-                image: '/images/team/team-03.png',
+                id:100028204 ,
+                name: 'Manavi J',
+                designation: 'Technical member',
+                image: '/images/team/manavi.jpeg',
+                instagramLink: 'https://www.instagram.com/manavi._.j/',
                 facebookLink: '/#',
-                twitterLink: '/#',
-                instagramLink: '/#',
+                twitterLink: '/#'
               },
               {
-                id: 22,
-                name: 'Sophia Adams',
-                designation: 'Content Writer',
-                image: '/images/team/team-03.png',
+                id:100026293,
+                name: 'Maithri A Humbarwadi',
+                designation: 'Technical member',
+                image: '/images/team/maithri 2.jpg',
                 facebookLink: '/#',
                 twitterLink: '/#',
-                instagramLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
               },
               // Add more members for Technical Team in 2024 if needed
             ],
