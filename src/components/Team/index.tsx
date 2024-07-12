@@ -132,6 +132,32 @@ const Team = () => {
         year: '2024 Execom',
         teams: [
           {
+            panelHeading: 'Chair Persons ',
+            paragraph: 'Our technical team is responsible for designing and developing our products.',
+            members: [
+              {
+                id:98220855,
+                name: 'Tarunkumar K',
+                designation: 'CHair Person',
+                image: '/images/team/Tarunkumar k.jpg',
+                facebookLink: '/#',
+                twitterLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
+              },
+              {id:98220588,
+                name: 'Skanda R ',
+                designation: 'CAS and CEDA Chair, Technical member',
+                image: '/images/team/ team-01.png',
+                facebookLink: '/#',
+                twitterLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
+              },
+
+            
+
+            ]
+          },
+          {
             panelHeading: 'Technical Team',
             paragraph: 'Our technical team is responsible for designing and developing our products.',
             members: [
@@ -153,6 +179,34 @@ const Team = () => {
                 twitterLink: '/#',
                 instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
               },
+              {
+                id:100045997,
+                name: 'Aditya Papade',
+                designation: 'Technical member',
+                image: '/images/team/aditya papade.JPG',
+                facebookLink: '/#',
+                twitterLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
+              },
+              {id:99999135,
+                name: 'Yashas K N',
+                designation: 'Technical member',
+                image: '/images/team/yashas kn.jpeg',
+                facebookLink: '/#',
+                twitterLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
+              },
+            
+              {id:98244841,
+                name: 'Sushma Jayaram',
+                designation: 'Technical member-Webmaster',
+                image: '/images/team/sushma jayaram.jpeg',
+                facebookLink: '/#',
+                twitterLink: '/#',
+                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg=='
+              },
+              
+              
               // Add more members for Technical Team in 2024 if needed
             ],
           },
