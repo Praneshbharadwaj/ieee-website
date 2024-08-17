@@ -100,7 +100,7 @@ export default function ToggleableDemo() {
         {
           id: 6,
           title: "Blockchain Web3 Hands-on Workshop",
-          imageSrc: "public/images/events/blockchain.jpg",
+          imageSrc: "/images/events/blockchain.jpg",
           details: "On June 13th, 2023, the IEEE BIT hosted a workshop titled \"Deep Dive into Web3 and Blockchain\" at the VLSI lab. Led by industry expert Shreyas Padmakiran, the event provided attendees with an insightful overview of blockchain technology and decentralised finance. Through interactive sessions, participants gained practical experience in creating wallets and tokens, fostering a deeper understanding of blockchain implementation. The workshop highlighted the vast opportunities in blockchain development and Web3 technology, inspiring attendees to explore further in this innovative domain. With a nominal registration fee of 50/- , the event attracted a diverse audience, proving to be a resounding success and leaving participants enriched with knowledge and enthusiasm for the future of finance.",
         },
         {
@@ -119,13 +119,13 @@ export default function ToggleableDemo() {
         {
           id: 9,
           title: "Manthan Events (Monopoly and RC soccer)",
-          imageSrc: "public/images/events/monopoly.png",
+          imageSrc: "/images/events/monopoly.png",
           details: "A lively event featuring a life-size Monopoly game took place at the BIT campus. Participants immersed themselves in the iconic board game, navigating through oversized game pieces and properties. Groups strategized to buy, sell, and negotiate their way to victory in a fun-filled atmosphere. With larger-than-life excitement, the life-size Monopoly game provided a memorable experience for all involved, creating lasting memories and fostering a sense of community.\n \n We also hosted an exhilarating RC Soccer League where participants navigate RC cars through challenging paths. Teams tackled mini-challenges like scoring goals and bowling. Speed and precision were key as teams raced against the clock The RC Soccer League brought joy and excitement, leaving participants thrilled and eager for future events.",
         },
         {
           id: 10,
           title: " Among-Us in real life",
-          imageSrc: "public/images/events/amongus.png",
+          imageSrc: "/images/events/amongus.png",
           details: "IEEE BIT hosted an exhilarating event, Among Us: Real Life Edition, on July 31st at Ramegowda Seminar Hall. Participants, in teams of two, experienced the thrill of being crewmates or impostors, vying for cash prizes. The event boasted an exciting prize pool of Rs. 3000/-. Registration fees were Rs. 100/- for IEEE members and Rs. 150/- for others. The real-life adaptation brought the popular mobile game Among Us to the physical realm, allowing attendees to immerse themselves fully in the gameplay. From strategic alliances to cunning betrayals, participants experienced the excitement of the game firsthand, navigating through the challenges of trust and deception in a dynamic, face-to- face setting.",
         },
         {
