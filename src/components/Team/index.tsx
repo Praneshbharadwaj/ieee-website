@@ -32,7 +32,7 @@ const Team = () => {
                 name: 'Tarunkumar K',
                 designation: 'Chair Person',
                 image: '/images/team/Tarunkumar k.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/tarunkumar-k-703931231',
                 instagramLink: '/#',
               },
               {
@@ -40,7 +40,7 @@ const Team = () => {
                 name: 'Shivani M H',
                 designation: ' Vice Chair Person',
                 image: '/images/team/shivani.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/shivani-m-h-17504025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/shivaniyashu?igsh=NWk4enJ5NWZ2M29r',
               },
               { 
@@ -48,7 +48,7 @@ const Team = () => {
                 name: 'Skanda R ',
                 designation: 'CAS and CEDA Chair',
                 image: '/images/team/skanda.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/skanda-raghavendra-2756b9228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: '/#',
               },
               { 
@@ -56,7 +56,7 @@ const Team = () => {
                 name: 'Sanchit Sharma',
                 designation: 'Computer Society Chairperson',
                 image: '/images/team/sanchith.jpeg',
-                linkedinlink:'/#',
+                linkedinlink:'https://www.linkedin.com/in/sanchit-sharma-433697280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: '/https://www.instagram.com/sanchit_8_2003/?next=%2F',
               },
               { 
@@ -64,7 +64,7 @@ const Team = () => {
                 name: 'Ankitha Srinath Gargya  ',
                 designation: 'Vice Chair | CAS Society',
                 image: '/images/team/Ankitha Gargya.JPG',
-                linkedinlink:'/#',
+                linkedinlink:'http://linkedin.com/in/ankitha-gargya',
                 instagramLink: 'https://www.instagram.com/ankitha_gargya/',
               },
               { 
@@ -72,7 +72,7 @@ const Team = () => {
                 name: 'Tanushree Jha',
                 designation: 'General Secretary Computer Society',
                 image: '/images/team/tanushree.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/tanushree-jha-255b90244/',
                 instagramLink: 'https://www.instagram.com/_.tanushreejha._/',
               },
               { 
@@ -80,7 +80,7 @@ const Team = () => {
                 name: 'Pavan V L',
                 designation: 'General Secretary, CAS, CEDA',
                 image: '/images/team/pavanvl.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/pavan-v-l/',
                 instagramLink: 'https://www.instagram.com/ankitha_gargya/',
               },
             ]
@@ -91,25 +91,25 @@ const Team = () => {
             members: [
               {
                 id:98866163,
-                name: 'Sudhanva ',
-                designation: 'Sub Head',
+                name: 'Sudhanva N S',
+                designation: 'Technical Team Lead',
                 image: '/images/team/Pavan G - PAVAN G.jpg',
-                linkedinlink: '/#',
-                instagramLink: 'https://www.instagram.com/_pavan_g11/',
+                linkedinlink: 'https://www.linkedin.com/in/sudhanvans/',
+                instagramLink: 'https://www.instagram.com/sudhanva0703?igsh=Z2c0b3JhcGxzdTFt',
               },
               {
                 id:98866163,
                 name: 'Pavan G',
                 designation: 'Sub Head',
                 image: '/images/team/Pavan G - PAVAN G.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/pavang11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/_pavan_g11/',
               },
               {id:98244841,
                 name: 'Sushma Jayaram',
                 designation: 'Technical member-Webmaster',
                 image: '/images/team/sushma jayaram.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/sushma-3416ab253',
                 instagramLink: 'https://www.instagram.com/sush_910?igsh=N3JocnVmeGdpOGlo',
               },
               {id:99710186,
@@ -124,7 +124,7 @@ const Team = () => {
                 name: 'Manavi J',
                 designation: 'Technical member',
                 image: '/images/team/manavi.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/manavi-j-46496b25b/',
                 instagramLink: 'https://www.instagram.com/manavi._.j/',
               },
               {
@@ -132,7 +132,7 @@ const Team = () => {
                 name: 'Maithri A Humbarwadi',
                 designation: 'Technical member',
                 image: '/images/team/maithri 2.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/maithri-humbarwadi/',
                 instagramLink: 'https://www.instagram.com/maithri_a_h',
               },
               {
@@ -140,14 +140,14 @@ const Team = () => {
                 name: 'Aditya Papade',
                 designation: 'Technical member',
                 image: '/images/team/aditya papade.JPG',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/aditya-papade-999554263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/a_d_i_t_y_a__179?igsh=bmV0bTl5ajN6ZDJn',
               },
               {id:99999135,
                 name: 'Yashas K N',
                 designation: 'Technical member',
                 image: '/images/team/yashas kn.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/yashas-kn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/yashas_kn17?igsh=MXBsZm00bW01bGtuZQ==',
               },  
               // Add more members for Technical Team in 2024 if needed
@@ -162,7 +162,7 @@ const Team = () => {
                 name: 'Aditya Umesh ',
                 designation: 'Event Head',
                 image: '/images/team/aditya u.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/aditya-umesh-144386220/',
                 instagramLink: 'https://www.instagram.com/_adityaumesh_?igsh=MWFsb2I2aHB0c2h4Mw==',
               },
               {
@@ -170,7 +170,7 @@ const Team = () => {
                 name: 'Sri Krishna',
                 designation: 'Event Sub Head',
                 image: '/images/team/srikrishna.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/sri-krishna-g-81916522a/',
                 instagramLink: 'https://www.instagram.com/sri_krishna_g_/',
               },
               {
@@ -178,7 +178,7 @@ const Team = () => {
                 name: 'Nikil Kumar N',
                 designation: 'Events member',
                 image: '/images/team/nikil.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/nikhil-n-kumar-141028259/',
                 instagramLink: 'https://www.instagram.com/nikhil2003nk',
               },
               {
@@ -186,7 +186,7 @@ const Team = () => {
                 name: 'Grishma Gagana S ',
                 designation: 'Events member',
                 image: '/images/team/girishma.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/grishma-gagana-s-270657303',
                 instagramLink: 'https://www.instagram.com/gallantgriga?igsh=MWhpbHY3OGZ0Ymdlbg==',
               },
               {
@@ -194,7 +194,7 @@ const Team = () => {
                 name: 'Shrivatsa Sharma ',
                 designation: 'Events member',
                 image: '/images/team/Shrivatsa Sharma.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/shrivatsa-sharma-4576502b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/shrivatsa_.pvt?igsh=MTFia2czaGxqNGs0ZA==',
               },
               {
@@ -217,7 +217,15 @@ const Team = () => {
                 name: 'Keerthana M ',
                 designation: 'Marketing Head',
                 image: '/images/team/Keerthana Murali.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/keerthana-murali-455903282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+                instagramLink: 'https://www.instagram.com/keerthanaa_murali?igsh=MWdsYml1dzl6Y3EwbQ==',
+              },
+              {
+                id: 100047619,
+                name: 'Poornaprajna K Kadagadkai',
+                designation: 'Associate marketing team head',
+                image: '/images/team/Keerthana Murali.jpg',
+                linkedinlink: 'https://www.linkedin.com/in/poornaprajna-k-kadagadkai-135a17249/',
                 instagramLink: 'https://www.instagram.com/keerthanaa_murali?igsh=MWdsYml1dzl6Y3EwbQ==',
               },
               {
@@ -225,7 +233,7 @@ const Team = () => {
                 name: 'Shriya Naragund ',
                 designation: 'Marketing member',
                 image: '/images/team/Shriya Naragund.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/shriya-naragund-7b5a0425a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: '/https://www.instagram.com/iam_shriya21?igsh=YjJieDd5YWJoc3g3',
               },
               // Add more members for Marketing Team in 2024 if needed
@@ -240,7 +248,7 @@ const Team = () => {
                 name: 'Sirisha Vasisht',
                 designation: 'Editorial Head',
                 image: '/images/team/sirisha.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/sirisha-m-970206238/',
                 instagramLink: 'https://www.instagram.com/sirisha_vasisht',
               },
               {
@@ -256,7 +264,7 @@ const Team = () => {
                 name: 'Gyanada GK ',
                 designation: 'Editorial member ',
                 image: '/images/team/Gyanada GK.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/sneha-gavade-2054702a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/_.gyanada.gk._?igsh=eGRqNjh2Z3NhNnZi',
               },
               {
@@ -264,7 +272,7 @@ const Team = () => {
                 name: 'Shriya Hebsur',
                 designation: 'Editorial member',
                 image: '/images/team/sriya.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/shriya-hebsur-3310b3259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: '/#',
               }
               
@@ -280,7 +288,7 @@ const Team = () => {
                 name: 'Jeeval',
                 designation: 'Design Sub Head',
                 image: '/images/team/jeeval.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/jeeval-jagadeesha-693a84262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/jeevaljagadeesha/',
               },
               {
@@ -288,7 +296,7 @@ const Team = () => {
                 name: 'Dhruvika Divakar Raju',
                 designation: ' Design team member ',
                 image: '/images/team/druvika.jpeg ',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/dhruvika-divakar-raju-a25b522b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/dhruvi_d_r?igsh=bXN6anl0Z3Jiamto',
               },
               // Add more members for Marketing Team in 2024 if needed
@@ -303,7 +311,7 @@ const Team = () => {
                 name: 'Sohan B S',
                 designation: 'Media Head',
                 image: '/images/team/sohan.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/sohan-b-s-1448b5276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/sohan44927?igsh=MWhsM2JzYTl6ejZ6dQ==',
               },
               {
@@ -311,7 +319,7 @@ const Team = () => {
                 name: 'Muktha M ',
                 designation: 'Media member ',
                 image: '/images/team/Muktha Pandit.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/muktha-m-655895259',
                 instagramLink: 'https://www.instagram.com/_.gyanada.gk._?igsh=eGRqNjh2Z3NhNnZi',
               },
               {
@@ -319,7 +327,7 @@ const Team = () => {
                 name: 'Prachi C Reddy',
                 designation: 'Media member',
                 image: '/images/team/Prachi Reddy.jpeg',
-                linkedinlink: '/#',
+                linkedinlink: 'http://linkedin.com/in/prachi-reddy-5106502b6',
                 instagramLink: 'https://www.instagram.com/prachi.reddyy?igsh=enM5cG4wMGtzOHd6&utm_source=qr',
               },
               {
@@ -327,7 +335,7 @@ const Team = () => {
                 name: 'Nandini Hiremath',
                 designation: 'Media member',
                 image: '/images/team/Nandini Hiremath.jpg',
-                linkedinlink: '/#',
+                linkedinlink: 'https://www.linkedin.com/in/nandini-hiremath-740306309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
                 instagramLink: 'https://www.instagram.com/me_nandinivh?igsh=MW9kbXFtY282Y242dw==',
               },
               // Add more members for Marketing Team in 2024 if needed
