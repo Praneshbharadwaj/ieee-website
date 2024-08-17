@@ -8,8 +8,7 @@ const SocietyTeam = () => {
       name: "Adveen Desuza",
       designation: "UI Designer",
       image: "/images/team/team-03.png",
-      facebookLink: "/#",
-      twitterLink: "/#",
+      linkedinlink: "/#",
       instagramLink: "/#",
     },
     {
@@ -17,8 +16,7 @@ const SocietyTeam = () => {
       name: "Andrieo Gloree",
       designation: "App Developer",
       image: "/images/team/team-03.png",
-      facebookLink: "/#",
-      twitterLink: "/#",
+      linkedinlink: "/#",
       instagramLink: "/#",
     },
     {
@@ -26,8 +24,7 @@ const SocietyTeam = () => {
       name: "Jessica Lee",
       designation: "Backend Developer",
       image: "/images/team/team-03.png",
-      facebookLink: "/#",
-      twitterLink: "/#",
+      linkedinlink: "/#",
       instagramLink: "/#",
     },
   ];
