@@ -137,7 +137,7 @@ const Team = () => {
                 image: '/images/team/maithri 2.jpg',
                 facebookLink: '/#',
                 twitterLink: '/#',
-                instagramLink: 'https://instagram.com/maithri_a_h?igshid=MzNlNGNkZWQ4Mg==',
+                instagramLink: 'https://www.instagram.com/maithri_a_h',
               },
               {
                 id:100045997,
@@ -300,11 +300,11 @@ const Team = () => {
               {
                 id:  99075802,
                 name: 'Jeeval',
-                designation: 'Editorial Head',
-                image: '/images/team/sirisha.jpeg',
+                designation: 'Design Sub Head',
+                image: '/images/team/jeeval.jpeg',
                 facebookLink: '/#',
                 twitterLink: '/#',
-                instagramLink: 'https://www.instagram.com/sirisha_vasisht',
+                instagramLink: 'https://www.instagram.com/jeevaljagadeesha/',
               },
               {
                 id: 99897409,
@@ -332,13 +332,13 @@ const Team = () => {
             paragraph: 'Our editorial team handles content writing.',
             members: [
               {
-                id:  99075802,
+                id: 99211225,
                 name: 'Sohan B S',
-                designation: 'Editorial Head',
-                image: '/images/team/sirisha.jpeg',
+                designation: 'Media Head',
+                image: '/images/team/sohan.jpeg',
                 facebookLink: '/#',
                 twitterLink: '/#',
-                instagramLink: 'https://www.instagram.com/sirisha_vasisht',
+                instagramLink: 'https://www.instagram.com/sohan44927?igsh=MWhsM2JzYTl6ejZ6dQ==',
               },
               {
                 id: 98887178,
