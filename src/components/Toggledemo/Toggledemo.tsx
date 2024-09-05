@@ -27,14 +27,14 @@ export default function ToggleableDemo() {
         {
           id: 41,
           title: "Inauguration of Centre of Excellence (CoE)",
-          imageSrc: "/images/events/data-science-webinar.jpg",
+          imageSrc: "/images/events/coe.jpeg",
           details:
                 "The IEEE BIT student branch inaugurated a Centre of Excellence (CoE) in Electronics Design Automation (EDA) on February 1, 2024. The ceremony was attended by esteemed guests, including Vice Principal J. Prakash and HODs of VDT and ECE. The CoE aims to provide best practices in EDA, marking a significant milestone in the student branch’s journey. The event paved the way for a 2-day workshop, fostering innovation and excellence among students."      
         },
         {
           id:42,
           title:  "ISRO VISIT",
-          imageSrc: "/images/events/data-science-webinar.jpg",
+          imageSrc: "/images/events/isro.jpeg",
           details:
           "The IEEE Student Branch BIT embarked on an enlightening industrial visit to the UR Rao Satellite Centre, a prominent facility under the Indian Space Research Organisation (ISRO). The visit provided a unique opportunity for IEEE members to witness the advancements in space technology and gain insights into the country's space exploration endeavours. \n The highlight of the visit was an immersive tour of the museum, where attendees were treated to a visual extravaganza of meticulously crafted model showcasing the evolution of space missions. From early satellite launches to complex interplanetary explorations, the museum provided a comprehensive overview of India's space odyssey. The visit not only broadened our understanding of space missions but also inspired a new wave of curiosity and enthusiasm among all."
         },
