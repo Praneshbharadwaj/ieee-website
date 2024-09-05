@@ -1,7 +1,7 @@
 import Newsletter from "@/components/Blog/Newsletter";
 import PopularArticle from "@/components/Blog/PopularArticle";
 import SocietyTeam from "@/components/Team/SocietyTeam";
-import CasocietyTeam from "@/components/Team/cassocietyteam";
+import CassocietyTeam from "@/components/Team/cassocietyteam";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 import { getAllPosts, getPostBySlug } from "@/utils/markdown";
 import markdownToHtml from "@/utils/markdownToHtml";
@@ -101,7 +101,7 @@ export default async function Post({ params }: Props) {
                   <div className="w-full px-4 lg:w-8/12">
                     <div className="blog-details xl:pr-10">
                       <div dangerouslySetInnerHTML={{ __html: content }}></div>
-                      <CasocietyTeam />
+                      <CassocietyTeam />
                     </div>
                   </div>
                   <div className="w-full px-4 lg:w-4/12">
@@ -268,10 +268,6 @@ export default async function Post({ params }: Props) {
       </>
     );
   }
-
-
-
-
   return (
     <>
       <Breadcrumb pageName="Chapter Details" />
@@ -298,6 +294,7 @@ export default async function Post({ params }: Props) {
                   <div className="blog-details xl:pr-10">
                     <div dangerouslySetInnerHTML={{ __html: content }}></div>
                     <SocietyTeam />
+
                   </div>
                 </div>
                 <div className="w-full px-4 lg:w-4/12">
