@@ -36,7 +36,7 @@ const Contact = () => {
                       We'd love to have you join our community at:
                     </p>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      401 Broadway, 24th Floor, Orchard Cloud View, London
+                     Bangalore Institute of Technology, Krishna Rajendra Rd, Parvathipuram, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004
                     </p>
                   </div>
                 </div>
@@ -59,10 +59,10 @@ const Contact = () => {
                       Feel free to reach out to us at:
                     </p>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      info@yourdomain.com
+                    Dr Jalaja S – IEEE BIT Branch Counselor         +91 9845100604
                     </p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      contact@yourdomain.com
+                      https://ieeebangalore.org/
                     </p>
                   </div>
                 </div>

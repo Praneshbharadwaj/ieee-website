@@ -109,7 +109,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/Features"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     Features
@@ -117,7 +117,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/Features"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     About
@@ -125,7 +125,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     Contact
@@ -142,36 +142,13 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     Join Us
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Privacy Policy
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Terms of Service
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Refund Policy
-                  </a>
-                </li>
+                
               </ul>
             </div>
           </div>
@@ -183,7 +160,7 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="/chapters"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     CS Society
@@ -191,7 +168,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/chapters"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     CAS Society
@@ -208,7 +185,7 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="/src/components/Faq"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     FAQ
@@ -216,7 +193,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/chapters"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     Chapters
@@ -224,7 +201,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     Support
@@ -232,7 +209,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/about"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     About
@@ -247,30 +224,7 @@ const Footer = () => {
       <div className="mt-12 border-t border-[#8890A4] border-opacity-40 py-8 lg:mt-[60px]">
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
-            <div className="w-full px-4 md:w-2/3 lg:w-1/2">
-              <div className="my-1">
-                <div className="-mx-3 flex items-center justify-center md:justify-start">
-                  <a
-                    href="/#"
-                    className="px-3 text-base text-gray-7 hover:text-white hover:underline"
-                  >
-                    Privacy policy
-                  </a>
-                  <a
-                    href="/#"
-                    className="px-3 text-base text-gray-7 hover:text-white hover:underline"
-                  >
-                    Legal notice
-                  </a>
-                  <a
-                    href="/#"
-                    className="px-3 text-base text-gray-7 hover:text-white hover:underline"
-                  >
-                    Terms of service
-                  </a>
-                </div>
-              </div>
-            </div>
+
             <div className="w-full px-4 md:w-1/3 lg:w-1/2">
               <div className="my-1 flex justify-center md:justify-end">
                 <p className="text-base text-gray-7">
