@@ -93,7 +93,7 @@ const Team = () => {
                 id:98866163,
                 name: 'Sudhanva N S',
                 designation: 'Technical Team Lead',
-                image: '/images/team/Pavan G - PAVAN G.jpg',
+                image: '/images/team/sudhanva.jpeg',
                 linkedinlink: 'https://www.linkedin.com/in/sudhanvans/',
                 instagramLink: 'https://www.instagram.com/sudhanva0703?igsh=Z2c0b3JhcGxzdTFt',
               },

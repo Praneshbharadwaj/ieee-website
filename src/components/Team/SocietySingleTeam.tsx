@@ -12,8 +12,8 @@ const SocietySingleTeam = ({ team }: { team: TeamType }) => {
             src={image}
             alt={name}
             className="w-full rounded-full"
-            width={120}
-            height={120}
+            width={100}
+            height={100}
           />
           <span className="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span>
           <span className="absolute right-0 top-0 -z-10 opacity-0 transition-all group-hover:opacity-100">
@@ -238,10 +238,10 @@ const SocietySingleTeam = ({ team }: { team: TeamType }) => {
           </span>
         </div>
         <div className="text-center">
-          <h3 className="mb-1 text-lg font-semibold text-dark dark:text-white">
+          <h3 className="mb-1 text-xl font-semibold text-dark dark:text-white">
             {name}
           </h3>
-          <p className="mb-5 text-sm text-body-color dark:text-dark-6">
+          <p className="mb-4 text-base text-body-color dark:text-dark-6">
             {designation}
           </p>
           
