@@ -78,7 +78,7 @@ const CassocietyTeam = () => {
       id: 100047619,
       name: 'Poornaprajna K Kadagadkai',
       designation: 'Associate marketing team head',
-      image: '/images/team/Keerthana Murali.jpg',
+      image: '/images/team/poorna.jpeg',
       linkedinlink: 'https://www.linkedin.com/in/poornaprajna-k-kadagadkai-135a17249/',
       instagramLink: 'https://www.instagram.com/keerthanaa_murali?igsh=MWdsYml1dzl6Y3EwbQ==',
     },

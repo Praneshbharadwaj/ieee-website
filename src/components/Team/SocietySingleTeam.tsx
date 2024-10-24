@@ -238,7 +238,7 @@ const SocietySingleTeam = ({ team }: { team: TeamType }) => {
           </span>
         </div>
         <div className="text-center">
-          <h3 className="mb-1 text-xl font-semibold text-dark dark:text-white">
+          <h3 className="mb-2 text-xl font-semibold text-dark dark:text-white">
             {name}
           </h3>
           <p className="mb-4 text-base text-body-color dark:text-dark-6">
