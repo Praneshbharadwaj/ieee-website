@@ -6,15 +6,6 @@ export const metadata: Metadata = {
   title:
     "Events | IEEE BIT",
   description: "Events held by the IEEE student branch at Bangalore Institute of Technology",
-  title:
-    "Events | IEEE BIT",
-  description: "Events held by the IEEE student branch at Bangalore Institute of Technology",
-  title:
-    "Events | IEEE BIT",
-  description: "Events held by the IEEE student branch at Bangalore Institute of Technology",
-  title:
-    "Events | IEEE BIT",
-  description: "Events held by the IEEE student branch at Bangalore Institute of Technology",
 };
 
 const PricingPage = () => {
