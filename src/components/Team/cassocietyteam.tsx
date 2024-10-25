@@ -38,7 +38,7 @@ const CassocietyTeam = () => {
     {id:99999135,
       name: 'Yashas K N',
       designation: 'Technical member',
-      image: '/images/team/yashas kn.jpeg',
+      image: '/images/team/Yashas kn.jpeg',
       linkedinlink: 'https://www.linkedin.com/in/yashas-kn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagramLink: 'https://www.instagram.com/yashas_kn17?igsh=MXBsZm00bW01bGtuZQ==',
     }, 

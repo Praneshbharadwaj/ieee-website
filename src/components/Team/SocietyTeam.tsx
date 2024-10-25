@@ -46,7 +46,7 @@ const SocietyTeam = () => {
     {id:98244841,
       name: 'Sushma Jayaram',
       designation: 'Technical member-Webmaster',
-      image: '/images/team/sushma jayaram.jpeg',
+      image: '/images/team/Sushma Jayaram.jpeg',
       linkedinlink: 'https://www.linkedin.com/in/sushma-3416ab253',
       instagramLink: 'https://www.instagram.com/sush_910?igsh=N3JocnVmeGdpOGlo',
     },
